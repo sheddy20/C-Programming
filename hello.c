@@ -1,6 +1,5 @@
 # include <stdio.h>
 
-int main(void){
-    printf("Hello C from nigeria\n");
-    return 0;
+int main(){
+   printf("happy new year guys\n");
 }
