@@ -1,11 +1,5 @@
 # include <stdio.h>
 
-/*
-My c programming journey for 2021,
-wouldn't ask for more than learning c
-Programming..
-*/
-
 int main(){
     printf("Whats your first name...");
     char firstName[9];
